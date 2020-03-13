@@ -3,7 +3,7 @@
 Lab three of the flashcard app for codepath
 These are the features of the app I have completed
 ### App Walk-though
-<img src="flashcard-appLab2.gif" width=200><br>
+<img src="flashcard-appLab3finished.gif" width=200><br>
 ### Required User Stories
 - [X] Start by opening Android Studio and running your app to make sure everything still works as expected
 - [X]  Add the necessary dependencies to start setting up the app's database
